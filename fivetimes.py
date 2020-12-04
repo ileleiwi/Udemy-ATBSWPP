@@ -1,5 +1,4 @@
 print('My name is')
-i = 0
-while i < 5:
+for i in range (12, 16):
     print('Jimmy Five Times ' + str(i))
-    i = i + 1
+
